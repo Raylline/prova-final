@@ -1,0 +1,45 @@
+body{
+    border: solid;
+    width: 740px;
+    height: 940px;
+}
+.p{
+ border: solid;
+}
+.links{
+    border: solid;
+    border-color: black ;
+
+    text-align: center;
+}
+.direita{
+    position: absolute;
+    border: solid;
+    width: 100px;
+    text-align: left;
+}
+.esquerda{
+    text-align: right;
+    position: absolute;
+    border: solid;
+    width: 100px;
+    
+}
+.busca{
+    text-align:right;
+}
+h1{
+    text-align: left;
+}
+ 
+img{
+    text-align: center;
+    
+}
+.text{
+    border: solid;
+}
+
+.ex{
+    text-align: right;
+}
